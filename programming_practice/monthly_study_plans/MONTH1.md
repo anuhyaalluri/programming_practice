@@ -12,7 +12,7 @@
 | Monday       | Tuesday      | Wednesday    | Thursday     | Friday          | Saturday     | Sunday       |
 |--------------|--------------|--------------|--------------|-----------------|--------------|--------------|
 | Leetcode x 1 | AWS 1 hour [x]  | Leetcode x 1 | AWS 1 hour   | Mock Interviews | Rest         | AWS 1 hour   |
-| Y  | WEEK 1 (y/n) | Y |WEEK 1 (y/n) | WEEK 1 (y/n)    | WEEK 1 (y/n) | WEEK 1 (y/n) |
-| WEEK 2 (y/n) | WEEK 2 (y/n) | WEEK 2 (y/n) | WEEK 2 (y/n) | WEEK 2 (y/n)    | WEEK 2 (y/n) | WEEK 2 (y/n) |
+| Y  | N | Y |WEEK 1 (y/n) | WEEK 1 (y/n)    | WEEK 1 (y/n) | WEEK 1 (y/n) |
+| Y | WEEK 2 (y/n) | WEEK 2 (y/n) | WEEK 2 (y/n) | WEEK 2 (y/n)    | WEEK 2 (y/n) | WEEK 2 (y/n) |
 | WEEK 3 (y/n) | WEEK 3 (y/n) | WEEK 3 (y/n) | WEEK 3 (y/n) | WEEK 3 (y/n)    | WEEK 3 (y/n) | WEEK 3 (y/n) |
 | WEEK 4 (y/n) | WEEK 4 (y/n) | WEEK 4 (y/n) | WEEK 4 (y/n) | WEEK 4 (y/n)    | WEEK 4 (y/n) | WEEK 4 (y/n) |
